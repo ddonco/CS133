@@ -41,4 +41,7 @@ libs
 objs
 
 # PDFs
-.pdf
+*.pdf
+
+# Compressed Folders
+*.zip
