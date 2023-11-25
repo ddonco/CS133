@@ -1,0 +1,10 @@
+This program is a class scheduler meant for all students at a community college.
+Students add themselves to the console by adding their name, student ID, and major.
+Students are all able to view the classes required for their major and can query
+the next class they must take to complete their major. Students can enroll in classes
+they have completed the prerequesites for by adding them to their planner. If they have time
+conflicts with a class they are trying to enroll in, and one that is already in their
+schedule, the student won't be able to enroll. If a student either drops a class or finishes,
+it will be removed from their planner. Students can add themselves to the waitlist of full 
+classes, which will allow them to enter the class depending on the professor, and whether 
+other students decide to drop the class.

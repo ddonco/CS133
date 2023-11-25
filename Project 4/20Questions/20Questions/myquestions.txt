@@ -1,0 +1,29 @@
+Q:Is it alive?
+Q:Does it have four legs?
+Q:Does it have a trunk?
+A:elephant
+Q:Does it have a tail?
+A:dog
+A:bear
+Q:Does it have wings?
+Q:Does it hunt from the skies?
+A:eagle
+Q:Does it peck holes in wood?
+A:woodpecker
+A:chicken
+A:tree
+Q:Is it used for sitting?
+Q:Does it fit multiple people?
+A:bench
+A:chair
+Q:Does it have wheels?
+Q:Does it have four wheels?
+A:car
+Q:Does it have one wheel?
+A:unicycle
+A:bicycle
+Q:Do you put it in your pocket?
+A:phone
+Q:Does it hold liquids?
+A:mug
+A:computer
